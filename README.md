@@ -1,5 +1,5 @@
 # Gigabyte-Aorus-B450I-Opencore-EFI
-macOS monterey的EFI文件 opencore0.8.5
+macOS ventura的EFI文件 opencore0.8.5
 ## 本人配置
 ryzen5600x+技嘉B450i+华擎6600xt cli+intel i211/9260ac网卡+ALC1220-VB声卡
 ## 适配状况
