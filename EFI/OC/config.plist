@@ -233,10 +233,15 @@
 			<dict>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,1,3/0,2/5,0/0,0</string>
+				<key>built-in</key>
+				<data>AQ==</data>
 				<key>device_type</key>
 				<string>Network controller</string>
 				<key>model</key>
 				<string>Wireless-AC 9260</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)</key>
+			<dict>
 				<key>built-in</key>
 				<data>AQ==</data>
 			</dict>
@@ -1056,7 +1061,7 @@
 			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
-			<false/>
+			<true/>
 			<key>ForceAquantiaEthernet</key>
 			<false/>
 			<key>ForceSecureBootScheme</key>
