@@ -223,8 +223,8 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)</key>
 			<dict>
-				<key>Built-in</key>
-				<data>AQAAAA==</data>
+				<key>built-in</key>
+				<data>AQ==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
